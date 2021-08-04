@@ -1,0 +1,1051 @@
+[2020-04-30 11:01:52,481 debug_unit_lecture.py:31 <module>] DEBUG: Test Message
+[2020-04-30 11:01:52,482 debug_unit_lecture.py:32 <module>] INFO: test message
+[2020-04-30 11:01:52,482 debug_unit_lecture.py:33 <module>] WARNING: test message
+[2020-04-30 11:01:52,482 debug_unit_lecture.py:34 <module>] ERROR: oh no
+[2020-04-30 11:04:46,906 debug_unit_lecture.py:84 <module>] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-04-30 11:04:46,994 debug_unit_lecture.py:84 <module>] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:88 <module>] DEBUG: meta_row
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:90 <module>] DEBUG: None
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:91 <module>] DEBUG: row 1 username is None
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:84 <module>] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:88 <module>] DEBUG: meta_row
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:90 <module>] DEBUG: None
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:91 <module>] DEBUG: row 2 username is None
+[2020-04-30 11:04:46,995 debug_unit_lecture.py:84 <module>] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:88 <module>] DEBUG: meta_row
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:90 <module>] DEBUG: None
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:91 <module>] DEBUG: row 3 username is None
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:84 <module>] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:88 <module>] DEBUG: meta_row
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:90 <module>] DEBUG: None
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:91 <module>] DEBUG: row 4 username is None
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:84 <module>] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:88 <module>] DEBUG: meta_row
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:90 <module>] DEBUG: None
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:91 <module>] DEBUG: row 5 username is None
+[2020-04-30 11:04:46,996 debug_unit_lecture.py:84 <module>] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:84 <module>] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:84 <module>] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:88 <module>] DEBUG: meta_row
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:90 <module>] DEBUG: None
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:91 <module>] DEBUG: row 8 username is None
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:84 <module>] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:88 <module>] DEBUG: meta_row
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:90 <module>] DEBUG: None
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:91 <module>] DEBUG: row 9 username is None
+[2020-04-30 11:04:46,997 debug_unit_lecture.py:101 <module>] INFO: done, time (in seconds): 0.091012
+[2020-05-07 20:24:26,455 <ipython-input-8-5cb0bc09ebdb>:1 <module>] DEBUG: Test Message
+[2020-05-07 20:24:37,990 <ipython-input-9-ecebae12adc6>:1 <module>] INFO: test message
+[2020-05-07 20:24:38,821 <ipython-input-10-bf983441b976>:1 <module>] WARNING: test message
+[2020-05-07 20:24:39,684 <ipython-input-11-5cedbac66d22>:1 <module>] ERROR: oh no
+[2020-05-07 20:26:04,216 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 20:26:04,216 <ipython-input-22-1bb6358ce1c2>:7 <module>] DEBUG: row is log on --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 20:26:04,216 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 20:26:04,216 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 1 username is None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 2 username is None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 3 username is None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 4 username is None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 5 username is None
+[2020-05-07 20:26:04,217 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 8 username is None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 9 username is None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:30 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 10 username is None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:34 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 11 username is None
+[2020-05-07 20:26:04,218 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:34 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 12 username is None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:35 -!- Anonymous5 [Anonymous5@AN-tu4.e85.r2ddjo.IP] has joined #hackers
+
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 13 username is None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:35 -!- lazyNitr0 [resistant@AN-kjb.6km.8lhfko.IP] has quit [Quit: Never quit!!]
+
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 14 username is None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:35 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 15 username is None
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:36 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,219 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 16 username is None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:36 -!- Nitr0 [resistant@AN-kjb.6km.8lhfko.IP] has joined #hackers
+
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 17 username is None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:41 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 18 username is None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:44 -!- SiliconAlchemist [anon@technoalchemy.com] has left #hackers []
+
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 19 username is None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:45 -!- Anonymous5 [Anonymous5@AN-tu4.e85.r2ddjo.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 20 username is None
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:47 -!- ice231 [ice231@AN-8ak.iq1.hl67p8.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,220 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 21 username is None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:48 -!- keddy [lulzface@k.e.d.d.y] has quit [Connection closed]
+
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 22 username is None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 00:50 -!- ice231 [ice231@AN-6ks.fag.lh60mn.IP] has joined #hackers
+
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 23 username is None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:08 -!- S0ldierF0rever [S0ldierF0re@AN-5ms.4a0.9sk9lp.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 24 username is None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:15 -!- HeavenGuard [webirc@AN-o8o.sb7.2n2b0e.IP] has joined #hackers
+
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,221 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 25 username is None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:17 < HeavenGuard> hello?
+
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:17 <+nemecy> hi
+
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:22 -!- lulzdrone [lulz@drone.incoming.pew.pews] has joined #hackers
+
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 28 username is None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:23 < ice231> hi
+
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:25 -!- Guest31645 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 30 username is None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:29 -!- dedocne [Unknown@AN-6mk.97v.o0pdt6.IP] has quit [Quit: When 2+2 = You, iPoo, by Apple]
+
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 31 username is None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:30 -!- hellboy [prudent@AN-r5g.h92.dq7njm.IP] has joined #hackers
+
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 32 username is None
+[2020-05-07 20:26:04,222 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:31 -!- hellboy is now known as Guest26312
+
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 33 username is None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:33 -!- Guest31674 [prudent@AN-r5g.h92.dq7njm.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 34 username is None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:37 -!- AndroUser2 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 35 username is None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:37 -!- Guest31645 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 36 username is None
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:38 -!- AndroUser2 is now known as Guest25727
+
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,223 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 37 username is None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:44 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 38 username is None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:45 -!- Guest25727 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 39 username is None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:45 -!- Guest25727 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 40 username is None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:48 -!- HeavenGuard [webirc@AN-o8o.sb7.2n2b0e.IP] has quit [Quit: Web client closed]
+
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 41 username is None
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:51 -!- [CyBruh] [Cybruh@AN-gm6.oj9.rj1tv4.IP] has joined #hackers
+
+[2020-05-07 20:26:04,224 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 42 username is None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:53 -!- AndroUser2 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 43 username is None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:53 -!- Guest25727 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 44 username is None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:54 -!- AndroUser2 is now known as Guest17978
+
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 45 username is None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:55 -!- Guest17978 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 46 username is None
+[2020-05-07 20:26:04,225 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:55 -!- AndroUser2 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 47 username is None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:56 -!- AndroUser2 is now known as Guest65262
+
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 48 username is None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:57 -!- Guest65262 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 49 username is None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:58 -!- Guest65262 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 50 username is None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:58 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: This computer has gone to sleep]
+
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 51 username is None
+[2020-05-07 20:26:04,226 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:59 -!- Guest65262 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 52 username is None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 01:59 -!- superstar_killers [superstar_@everything.is.awesome] has joined #hackers
+
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 53 username is None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:01 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 54 username is None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:01 -!- [CyBruh] [Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 55 username is None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:01 -!- [CyBruh] [Cybruh@AN-gm6.oj9.rj1tv4.IP] has joined #hackers
+
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,227 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 56 username is None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:15 -!- [CyBruh] [Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 57 username is None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:15 -!- Guest65262 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 58 username is None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:15 -!- CyBruh [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 59 username is None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:16 -!- AnonStand [AnonStand@Fuck.DaH.Banks] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 60 username is None
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:16 -!- CyBruh [Cybruh@AN-gm6.oj9.rj1tv4.IP] has joined #hackers
+
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,228 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 61 username is None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:20 -!- Guest2385 [__desu__3@AN-3ga.17e.ia8882.IP] has joined #hackers
+
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 62 username is None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:20 -!- Guest2385 [__desu__3@AN-3ga.17e.ia8882.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 63 username is None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:20 -!- Guest2385 [__desu__3@AN-3ga.17e.ia8882.IP] has joined #hackers
+
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 64 username is None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:21 -!- Guest2385 is now known as __desu__
+
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 65 username is None
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:27 -!- AndroUser2 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,229 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 66 username is None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:27 -!- Guest65262 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Write Error]
+
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 67 username is None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:27 -!- AndroUser2 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 68 username is None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:27 -!- AndroUser2 [androirc@AN-l8e.7dp.8hdu3q.IP] has joined #hackers
+
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 69 username is None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:27 -!- AndroUser2 [androirc@AN-l8e.7dp.8hdu3q.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 70 username is None
+[2020-05-07 20:26:04,230 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:28 -!- bigbadwolf [bigbadwolf@AN-o6s.k5l.cru09h.IP] has joined #hackers
+
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 71 username is None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:30 -!- K3nJ1 [K3nJ1@AN-0c8.cl8.vv5bpp.IP] has joined #hackers
+
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 72 username is None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:32 -!- ihazcandie [chatzilla@AN-f2o.0vv.17gr0f.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 73 username is None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:34 -!- Dzl is now known as Sailer_Dzl
+
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 74 username is None
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:35 -!- Guest26312 [prudent@AN-r5g.h92.dq7njm.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,231 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 75 username is None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:35 -!- Sailer_Dzl is now known as Sailor_Dzl
+
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 76 username is None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:35 -!- Guest26312 [prudent@AN-r5g.h92.dq7njm.IP] has joined #hackers
+
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 77 username is None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:38 -!- K3nJ1 [K3nJ1@AN-0c8.cl8.vv5bpp.IP] has quit [Quit: i'll be back]
+
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 78 username is None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:40 -!- ice231 [ice231@AN-6ks.fag.lh60mn.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 79 username is None
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:41 -!- ice231 [ice231@AN-efv.iq1.hl67p8.IP] has joined #hackers
+
+[2020-05-07 20:26:04,232 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 80 username is None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:41 -!- twelve [twelve@lempel.ziv] has quit [Quit: ã˜ã‚ƒã¾ãŸã­]
+
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 81 username is None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:48 -!- Guest26312 is now known as hellboy
+
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 82 username is None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:52 -!- Ctrl [Ctrl@AN-jo6.8gs.6a3eos.IP] has joined #hackers
+
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 83 username is None
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:55 < Ctrl> Do any of you know any trusted services that provide offshore dedicated servers in countries like Iran, Russia, China, etc, that won't bend at pressure from LE
+
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:56 < Ctrl> And take bitcoin obviously 
+
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 02:59 -!- Shabby [Shabby@AN-m4l.8rt.716oej.IP] has joined #hackers
+
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,233 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 86 username is None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:00 -!- ice231 [ice231@AN-efv.iq1.hl67p8.IP] has quit [Quit: Good Bye]
+
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 87 username is None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:00 -!- Shabby [Shabby@AN-m4l.8rt.716oej.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 88 username is None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:03 -!- patsukin [patsukin@AN-tpi.h7q.rk79ui.IP] has joined #hackers
+
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 89 username is None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:06 -!- Ctrl [Ctrl@AN-jo6.8gs.6a3eos.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 90 username is None
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:11 -!- patsukin [patsukin@AN-tpi.h7q.rk79ui.IP] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,234 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 91 username is None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:12 -!- ThaCosmo [webirc@AN-j2r.jil.8rs5jp.IP] has quit [Quit: Web client closed]
+
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 92 username is None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:12 -!- Sailor_Dzl is now known as Sophisticated_Dzl
+
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 93 username is None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:15 -!- superstar_killers [superstar_@everything.is.awesome] has quit [Quit: ]
+
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 94 username is None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:16 -!- Sophisticated_Dzl is now known as Dzl
+
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 95 username is None
+[2020-05-07 20:26:04,235 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:36 -!- Beowulf [Beowulf@AN-pc6.k6h.g70m12.IP] has joined #hackers
+
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 96 username is None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:39 -!- cryptomillz [cryptomillz@AN-8cg.u7f.1v7gp0.IP] has joined #hackers
+
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 97 username is None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:43 -!- guapo [webirc@AN-tuj.3bd.e1r4fn.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 98 username is None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:46 -!- lulzdrone [lulz@drone.incoming.pew.pews] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 99 username is None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:46 -!- lulzdrone [lulz@drone.incoming.pew.pews] has joined #hackers
+
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,236 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 100 username is None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:50 < cryptomillz> #tutorials
+
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:50 -!- AdmiralMubuntu [Djang0@AN-kmmc0v.2g38.5juu.k7goj7.IP] has joined #hackers
+
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 102 username is None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:51 < Winston> /join #tutorials
+
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:51 < Winston> do that cryptomillz ^^^
+
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:51 -!- mild_touch [mild_touch@99percent.org] has joined #hackers
+
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 105 username is None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 03:52 -!- kaijectorsf [pot@the.kettle.is.black] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 106 username is None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:08 -!- Dzl [Dzl@Corruptissima.Re.Publica.Plurimae.Legas] has quit [Quit: Leaving]
+
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,237 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 107 username is None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:10 -!- Winston [Winston@schrodingers.litterbox] has left #hackers []
+
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 108 username is None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:14 -!- mild_touch [mild_touch@99percent.org] has quit [Quit: This computer has gone to sleep]
+
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 109 username is None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:15 < cryptomillz> i cant find tutorials on the list
+
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:16 < cryptomillz> found it
+
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:18 -!- bigbadwolf [bigbadwolf@AN-o6s.k5l.cru09h.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 112 username is None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:19 -!- rute [rute@AN-4u3.nn1.gmqo8m.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,238 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 113 username is None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:21 -!- arc3v1l [arc3v1l@AN-iri.6ff.9l3h91.IP] has joined #hackers
+
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 114 username is None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:24 -!- NEGATIVEZERO [negative@zero.negative] has quit [Connection closed]
+
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 115 username is None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:33 -!- rute [rute@AN-4u3.nn1.gmqo8m.IP] has joined #hackers
+
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 116 username is None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:36 -!- dafuq [dafuq@AN-ggv.7ka.q33bn3.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 117 username is None
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:37 -!- AdmiralMubuntu [Djang0@AN-kmmc0v.2g38.5juu.k7goj7.IP] has quit [Quit: Â¯\_(ãƒ„)_/Â¯ H8rz g0n h8]
+
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,239 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 118 username is None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:38 -!- gucci|bebe [guccibebe@errrrthang.guc.ci] has joined #hackers
+
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 119 username is None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:42 -!- hellboy [coffee@starbucks.isexpensive] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 120 username is None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:47 -!- Flutts [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has joined #hackers
+
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 121 username is None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:51 -!- cryptomillz [cryptomillz@AN-8cg.u7f.1v7gp0.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 122 username is None
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 04:59 -!- enigma [fbi@AN-vqbp8o.8pc6.aaic.n5iikd.IP] has joined #hackers
+
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,240 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 123 username is None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:01 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has joined #hackers
+
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 124 username is None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:04 -!- S0ldierF0rever [S0ldierF0re@AN-5ms.4a0.9sk9lp.IP] has joined #hackers
+
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 125 username is None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:04 -!- hellboy [prudent@AN-r5g.h92.dq7njm.IP] has joined #hackers
+
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 126 username is None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:05 -!- hellboy is now known as Guest11966
+
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 127 username is None
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:06 -!- yetw4t3rm3lon [lion@AN-ki4.fjp.5fmv18.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,241 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 128 username is None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:07 -!- distantcicada [bird@AN-ki4.fjp.5fmv18.IP] has joined #hackers
+
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 129 username is None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:07 -!- gladpuppy [fly@AN-6qn.dnl.0if8mq.IP] has joined #hackers
+
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 130 username is None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:08 -!- distantcicada [bird@AN-ki4.fjp.5fmv18.IP] has quit [Client exited]
+
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 131 username is None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:15 -!- Klaatu [me@AN-7um.cla.rsvtrk.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 132 username is None
+[2020-05-07 20:26:04,242 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:16 -!- Klaatu [me@AN-7um.cla.rsvtrk.IP] has joined #hackers
+
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 133 username is None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:17 -!- Klaatu_ [me@AN-7um.cla.rsvtrk.IP] has joined #hackers
+
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 134 username is None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:18 -!- Klaatu_ [me@AN-7um.cla.rsvtrk.IP] has quit [Quit: abducted by aliens]
+
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 135 username is None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:28 -!- AnoNewb [AnoNewb@AN-l9k.23k.193g1c.IP] has joined #hackers
+
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 136 username is None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:34 -!- inity13 [inity13@AN-jf7.475.5rba3v.IP] has joined #hackers
+
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 137 username is None
+[2020-05-07 20:26:04,243 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:50 -!- TheMessanger [ShadowMask@AN-lk8.ng2.tvsps7.IP] has joined #hackers
+
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 138 username is None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 05:57 -!- CyBruh [Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 139 username is None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:02 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 140 username is None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:02 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has joined #hackers
+
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 141 username is None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:13 -!- B3stofy0u [B3stofy0u@AN-20b.mqv.33ckq9.IP] has joined #hackers
+
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,244 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 142 username is None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:13 -!- kosmos [kosmos@AN-9bo.ibl.3rfc0n.IP] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 143 username is None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:13 -!- CyBruh [Cybruh@AN-dci.ot5.5st8if.IP] has joined #hackers
+
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 144 username is None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:13 -!- kosmos [kosmos@AN-9bo.ibl.3rfc0n.IP] has joined #hackers
+
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 145 username is None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:20 -!- LevAnon [LevAnon@AN-r5g.h92.dq7njm.IP] has joined #hackers
+
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 146 username is None
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:21 -!- TheMessanger [ShadowMask@AN-lk8.ng2.tvsps7.IP] has quit [Quit: .]
+
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,245 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 147 username is None
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:23 -!- B3stofy0u [B3stofy0u@AN-20b.mqv.33ckq9.IP] has quit [Connection closed]
+
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 148 username is None
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:5 <module>] DEBUG: 06:24 -!- UnknownError [Cyrex@AN-hnj.nsb.8nar6v.IP] has joined #hackers
+
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:9 <module>] DEBUG: meta_row
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:11 <module>] DEBUG: None
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:12 <module>] DEBUG: row 149 username is None
+[2020-05-07 20:26:04,246 <ipython-input-22-1bb6358ce1c2>:22 <module>] INFO: done, time (in seconds): 0.030007
+[2020-05-07 20:35:04,219 <ipython-input-23-690b66f922ec>:1 <module>] INFO: done, time (in seconds): 540.003411
+[2020-05-07 20:39:30,604 debug_unit_lecture.py:31 <module>] DEBUG: Test Message
+[2020-05-07 20:39:30,604 debug_unit_lecture.py:32 <module>] INFO: test message
+[2020-05-07 20:39:30,605 debug_unit_lecture.py:33 <module>] WARNING: test message
+[2020-05-07 20:39:30,605 debug_unit_lecture.py:34 <module>] ERROR: oh no
+[2020-05-07 20:40:55,188 debug_unit_lecture.py:101 <module>] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 20:41:32,436 debug_unit_lecture.py:103 <module>] DEBUG: row is log on --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:02:01,660 <ipython-input-8-5cb0bc09ebdb>:1 <module>] DEBUG: Test Message
+[2020-05-07 21:02:02,246 <ipython-input-9-ecebae12adc6>:1 <module>] INFO: test message
+[2020-05-07 21:02:02,905 <ipython-input-10-bf983441b976>:1 <module>] WARNING: test message
+[2020-05-07 21:02:04,877 <ipython-input-11-5cedbac66d22>:1 <module>] ERROR: oh no
+[2020-05-07 21:18:15,750 setup_logs_lecture.py:46 <module>] DEBUG: This is a debug message
+[2020-05-07 21:18:15,750 setup_logs_lecture.py:47 <module>] INFO: this is an info message
+[2020-05-07 21:18:15,750 setup_logs_lecture.py:48 <module>] WARNING: this is a warning message
+[2020-05-07 21:18:15,750 setup_logs_lecture.py:49 <module>] ERROR: this is an error message
+[2020-05-07 21:18:31,954 <ipython-input-23-78c428a7535f>:1 <module>] DEBUG: This is a debug message
+[2020-05-07 21:18:33,118 <ipython-input-24-aee6f60d9c71>:1 <module>] INFO: this is an info message
+[2020-05-07 21:18:33,622 <ipython-input-25-1fadc93acbcc>:1 <module>] WARNING: this is a warning message
+[2020-05-07 21:18:34,120 <ipython-input-26-135b5e0c8140>:1 <module>] ERROR: this is an error message
+[2020-05-07 21:19:57,191 setup_logs_lecture.py:46 <module>] DEBUG: This is a debug message
+[2020-05-07 21:19:57,191 setup_logs_lecture.py:47 <module>] INFO: this is an info message
+[2020-05-07 21:19:57,191 setup_logs_lecture.py:48 <module>] WARNING: this is a warning message
+[2020-05-07 21:19:57,191 setup_logs_lecture.py:49 <module>] ERROR: this is an error message
+[2020-05-07 21:20:06,157 setup_logs_lecture.py:46 <module>] DEBUG: This is a debug message
+[2020-05-07 21:20:06,157 setup_logs_lecture.py:47 <module>] INFO: this is an info message
+[2020-05-07 21:20:06,157 setup_logs_lecture.py:48 <module>] WARNING: this is a warning message
+[2020-05-07 21:20:06,157 setup_logs_lecture.py:49 <module>] ERROR: this is an error message
+[2020-05-07 21:24:37,362 setup_logs_lecture.py:122 main] INFO: Data Successfully loaded
+[2020-05-07 21:24:37,362 setup_logs_lecture.py:128 main] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:128 main] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:128 main] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:128 main] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:128 main] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:128 main] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:128 main] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:24:37,363 setup_logs_lecture.py:128 main] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:24:37,364 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:24:37,364 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:24:37,364 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= we need help with an op but were stuck at this one part
+
+[2020-05-07 21:24:37,364 setup_logs_lecture.py:128 main] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 21:24:37,364 setup_logs_lecture.py:128 main] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:24:37,383 setup_logs_lecture.py:146 <module>] INFO: Program Completed
+[2020-05-07 21:24:42,900 setup_logs_lecture.py:155 <module>] DEBUG: __main__
+[2020-05-07 21:24:57,599 setup_logs_lecture.py:46 <module>] DEBUG: This is a debug message
+[2020-05-07 21:24:57,599 setup_logs_lecture.py:47 <module>] INFO: this is an info message
+[2020-05-07 21:24:57,599 setup_logs_lecture.py:48 <module>] WARNING: this is a warning message
+[2020-05-07 21:24:57,599 setup_logs_lecture.py:49 <module>] ERROR: this is an error message
+[2020-05-07 21:25:00,948 setup_logs_lecture.py:122 main] INFO: Data Successfully loaded
+[2020-05-07 21:25:00,948 setup_logs_lecture.py:128 main] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:25:00,948 setup_logs_lecture.py:128 main] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= we need help with an op but were stuck at this one part
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 21:25:00,949 setup_logs_lecture.py:128 main] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:25:00,969 setup_logs_lecture.py:146 <module>] INFO: Program Completed
+[2020-05-07 21:25:02,073 setup_logs_lecture.py:155 <module>] DEBUG: __main__
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:122 main] INFO: Data Successfully loaded
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:128 main] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:30:01,532 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:30:01,533 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= we need help with an op but were stuck at this one part
+
+[2020-05-07 21:30:01,533 setup_logs_lecture.py:128 main] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 21:30:01,533 setup_logs_lecture.py:128 main] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:30:01,549 setup_logs_lecture.py:146 <module>] INFO: Program Completed
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:122 main] INFO: Data Successfully loaded
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:128 main] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:86 get_user_name] DEBUG: testing username 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:30:07,760 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= we need help with an op but were stuck at this one part
+
+[2020-05-07 21:30:07,761 setup_logs_lecture.py:128 main] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 21:30:07,761 setup_logs_lecture.py:128 main] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:30:07,780 <ipython-input-47-a998b7357345>:3 <module>] INFO: Program Completed
+[2020-05-07 21:30:12,795 <ipython-input-48-d2a6de16867a>:1 <module>] DEBUG: __main__
+[2020-05-07 21:35:55,355 setup_logs_lecture.py:46 <module>] DEBUG: This is a debug message
+[2020-05-07 21:35:55,355 setup_logs_lecture.py:47 <module>] INFO: this is an info message
+[2020-05-07 21:35:55,355 setup_logs_lecture.py:48 <module>] WARNING: this is a warning message
+[2020-05-07 21:35:55,355 setup_logs_lecture.py:49 <module>] ERROR: this is an error message
+[2020-05-07 21:35:58,566 setup_logs_lecture.py:122 main] INFO: Data Successfully loaded
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:88 get_user_name] DEBUG: in get_user_name: ice231
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:134 main] DEBUG: message is:anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:128 main] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:88 get_user_name] DEBUG: in get_user_name: ice231
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= we need help with an op but were stuck at this one part
+
+[2020-05-07 21:35:58,567 setup_logs_lecture.py:134 main] DEBUG: message is:we need help with an op but were stuck at this one part
+
+[2020-05-07 21:35:58,568 setup_logs_lecture.py:128 main] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 21:35:58,568 setup_logs_lecture.py:128 main] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:35:58,590 setup_logs_lecture.py:146 <module>] INFO: Program Completed
+[2020-05-07 21:36:31,543 setup_logs_lecture.py:122 main] INFO: Data Successfully loaded
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:88 get_user_name] DEBUG: in get_user_name: ice231
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:134 main] DEBUG: message is:anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:128 main] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:88 get_user_name] DEBUG: in get_user_name: ice231
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= we need help with an op but were stuck at this one part
+
+[2020-05-07 21:36:31,544 setup_logs_lecture.py:134 main] DEBUG: message is:we need help with an op but were stuck at this one part
+
+[2020-05-07 21:36:31,545 setup_logs_lecture.py:128 main] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 21:36:31,545 setup_logs_lecture.py:128 main] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:36:31,562 setup_logs_lecture.py:146 <module>] INFO: Program Completed
+[2020-05-07 21:38:31,006 setup_logs_lecture.py:46 <module>] DEBUG: This is a debug message
+[2020-05-07 21:38:31,006 setup_logs_lecture.py:47 <module>] INFO: this is an info message
+[2020-05-07 21:38:31,006 setup_logs_lecture.py:48 <module>] WARNING: this is a warning message
+[2020-05-07 21:38:31,006 setup_logs_lecture.py:49 <module>] ERROR: this is an error message
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:122 main] INFO: Data Successfully loaded
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:128 main] DEBUG: --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:137 main] INFO: Date Changed --- Log opened Tue Sep 20 00:01:49 2016
+
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:128 main] DEBUG: 00:01 -!- Guest40341 [AndChat2541@AN-pl0gl1.8e2d.64f9.r226rd.IP] has quit [Quit: Bye]
+
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:140 main] WARNING: Row Type not found %s
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:128 main] DEBUG: 00:11 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has joined #hackers
+
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:140 main] WARNING: Row Type not found %s
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:128 main] DEBUG: 00:14 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has joined #hackers
+
+[2020-05-07 21:38:35,146 setup_logs_lecture.py:140 main] WARNING: Row Type not found %s
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:128 main] DEBUG: 00:15 -!- _CyBruh_ [-Cybruh@AN-gm6.oj9.rj1tv4.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:140 main] WARNING: Row Type not found %s
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:128 main] DEBUG: 00:20 -!- peejr [peeejr@AN-sru.3ib.ec0efc.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:140 main] WARNING: Row Type not found %s
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:128 main] DEBUG: 00:25 < ice231> anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:88 get_user_name] DEBUG: in get_user_name: ice231
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:134 main] DEBUG: message is:anyone good with exploiting cisco asa with extrabacon?
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:128 main] DEBUG: 00:27 < ice231> we need help with an op but were stuck at this one part
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:88 get_user_name] DEBUG: in get_user_name: ice231
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:132 main] DEBUG: row is message. Username is ice231
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:111 get_chat_message] DEBUG: get_chat_message: chat_row= we need help with an op but were stuck at this one part
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:134 main] DEBUG: message is:we need help with an op but were stuck at this one part
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:128 main] DEBUG: 00:27 -!- Bobseviltwin [steven@stupid.hunkey.monkey] has quit [Ping timeout: 121 seconds]
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:140 main] WARNING: Row Type not found %s
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:128 main] DEBUG: 00:30 -!- Gilgamesh [Gilgamesh@AN-nkf.mv0.se355c.IP] has quit [Quit: Leaving]
+
+[2020-05-07 21:38:35,147 setup_logs_lecture.py:140 main] WARNING: Row Type not found %s
+[2020-05-07 21:38:35,164 setup_logs_lecture.py:146 <module>] INFO: Program Completed
+[2020-05-07 21:46:50,351 setup_logs_lecture.py:46 <module>] DEBUG: This is a debug message
+[2020-05-07 21:46:50,351 setup_logs_lecture.py:47 <module>] INFO: this is an info message
+[2020-05-07 21:46:50,351 setup_logs_lecture.py:48 <module>] WARNING: this is a warning message
+[2020-05-07 21:46:50,351 setup_logs_lecture.py:49 <module>] ERROR: this is an error message
